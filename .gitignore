@@ -1,0 +1,19 @@
+# Arquivos de compilação
+out/
+
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivo de configuração do IntelliJ IDEA
+*.iml
